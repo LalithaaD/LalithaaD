@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 💫 About Me  
-I’m Lalitha M. Divakaruni, a Software Development Engineer focused on building scalable web and cloud systems. I turn complex requirements into reliable, production ready software.  
+I’m Lalitha, a Software Development Engineer focused on building scalable web and cloud systems. I turn complex requirements into reliable, production ready software.  
 
 🔭 Software Development Engineer at Vosyn, building React platforms and serverless backend services  
 💡 Interested in full stack development, cloud native systems, intelligent automation, and AI-powered solutions  

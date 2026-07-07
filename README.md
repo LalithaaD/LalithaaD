@@ -7,5 +7,5 @@ I’m Lalitha, a Software Development Engineer focused on building scalable web 
 💡 Interested in full stack development, cloud native systems, intelligent automation, and AI-powered solutions  
 🤝 Open to collaborating on engineering projects that deliver real-world impact  
 📫 Reach me at lalithamadhuri3@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/lalithamadhurid/)  
-🌐 Portfolio: [Lalitha M. Divakaruni](https://lalithaad.github.io/LPortfolio/)  
+🌐 Portfolio: [Lalitha M.D](https://lalithaad.github.io/LPortfolio/)  
 😄 Pronouns: She/Her  
